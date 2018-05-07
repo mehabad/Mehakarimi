@@ -71,5 +71,21 @@ footer {
 }
 
 #behov img {
-    width: 300px;
+    width: 500px;
+    margin-left: 400px;
+}
+
+
+h1 {
+    font-size: 34px;
+    margin-bottom: 20px;
+    margin-left: 500px;
+
+
+}
+
+body {
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: ;
 }
